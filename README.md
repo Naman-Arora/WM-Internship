@@ -1,4 +1,4 @@
-﻿# WM Corporate Office Weight Measurer
+﻿# WM Corporate Office Trash Mass Measurer
 
 ## Schematics
 
